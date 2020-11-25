@@ -1,5 +1,5 @@
 # Title ![](https://img.shields.io/badge/License-MIT-important)
-Hangman Game
+Hangman Game!
 # Description
 Select a letter to figure out a hidden word in a set amount of chances
 
